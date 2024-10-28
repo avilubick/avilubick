@@ -4,7 +4,6 @@
 - DTCC FutureStars Student
 - CIJE Innovation Day 3rd in 'Engenering For Personal Care'
 - 🎯Skills: Python, HTML, CSS, Arduino, Cybersecurity, Engineering, Networking
-- 😄 Pronouns: He/Him
 - 📫 Avilubick@gmail.com
 
 
