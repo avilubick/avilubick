@@ -2,7 +2,6 @@
 - 📙11th @ Ramaz Upper
 - NYU CS4CS 2024 Grad
 - DTCC FutureStars Student
-- CIJE Innovation Day 3rd in 'Engenering For Personal Care'
 - 🎯Skills: Python, HTML, CSS, Arduino, Cybersecurity, Engineering, Networking, Backend Development
 - 📫 Avilubick@gmail.com
 
